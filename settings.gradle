@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Lab11_LongRunningIn_Thread_With_Change_UI_PostMethod'
